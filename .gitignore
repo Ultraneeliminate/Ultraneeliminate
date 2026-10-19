@@ -1,0 +1,7 @@
+*.log
+secrets/
+
+# ghb-push auto
+description.md
+.ghbignore
+.DS_Store
